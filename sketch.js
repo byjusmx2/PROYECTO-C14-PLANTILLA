@@ -67,7 +67,7 @@ function draw() {
   }  
     
   drawSprites();
-  text("Score: "+ score, 300,50);
+  text("Puntuación: "+ score, 280,50);
 }
 
 
